@@ -158,7 +158,7 @@ My technical journey began with game server administration, leading me to archit
 ### 🐍 Contribution Activity Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ktexucoder/ktexucoder/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ktexucoder/ktexucoder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
